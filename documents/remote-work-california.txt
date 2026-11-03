@@ -1,0 +1,16 @@
+ExampleCo — California Remote Work Policy
+Policy ID: RW-CA-001
+Version: 2
+Effective date: November 1, 2026
+Location: California
+
+California employees may work remotely up to 4 days per week.
+
+Manager approval is required before choosing a remote work schedule.
+
+Core collaboration hours are 10:00 AM to 3:00 PM Pacific Time.
+
+Remote work outside the United States requires separate written
+approval from Human Resources.
+
+Equipment reimbursement is covered by a separate policy.

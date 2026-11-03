@@ -1,0 +1,17 @@
+ExampleCo — Equipment Reimbursement Policy
+Policy ID: EQ-001
+Version: 1
+Effective date: November 1, 2026
+Location: United States
+
+Eligible employees may claim up to $300 per calendar year for
+approved home-office equipment.
+
+Manager approval is required before purchasing equipment.
+
+Requests must include an itemized receipt and be submitted within
+30 days of purchase.
+
+Unused allowance does not carry over to the next year.
+
+Internet service charges are not covered.
